@@ -89,8 +89,8 @@ let setting = JSON.parse(fs.readFileSync('./setting.json'))
 
 owner = setting.owner
 gamewaktu = setting.gamewaktu
-fake = `卍𝚑𝚎𝚛𝚖𝙰𝚗 𝚋𝚘𝚝` 
-footerr = `卍𝚑𝚎𝚛𝚖𝙰𝚗 𝚋𝚘𝚝` 
+fake = `卍Bambang Bot` 
+footerr = `卍Bambang Bot` 
 bio = `Sibuk`
 yt = `Herman Chanel`
 banChats = true
@@ -943,7 +943,7 @@ case 'public':
 //------------------< Menu >-------------------                                            
         case 'menu':
         case 'help':
-        tagme = '6283146208804'
+        tagme = '6282313021398'
         nono = `${ucapanWaktu} - @${sender.split("@")[0]}
 
 *◪ Status Bot*
